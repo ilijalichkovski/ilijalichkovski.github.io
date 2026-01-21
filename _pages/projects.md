@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Undertakings, past and present, mostly related to research and open-source software.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+display_categories: #[research, applied, oss]
 horizontal: false
 ---
 

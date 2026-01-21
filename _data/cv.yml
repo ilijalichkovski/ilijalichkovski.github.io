@@ -2,96 +2,105 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Ilija Lichkovski
+    - name: Location
+      value: Netherlands
     - name: Languages
-      value: English, German
+      value: English, Macedonian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: BSc Physics
+      institution: University of Groningen, Netherlands
+      year: 2021 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Focus in biophysics
+        - Thesis on mitochondrial dysfunction using solid-state NMR
+    - title: Journalistic/Liberal Arts Programme
+      institution: School of The New York Times, USA
+      year: 2020 - 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Gap year programme in pursuit of well-roundedness
 
-- title: Experience
+- title: Current Positions
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: ML Engineer
+      institution: Researchable, Netherlands
+      year: 2024 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - AI for industrial and medical applications
+    - title: RL Residency
+      institution: Prime Intellect, USA
+      year: 2025 - present
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Working on novel approaches for efficient weight updates of foundation models
+        - Meta-learning, overcoming catastrophic forgetting, phrasing problems as environments
+    - title: AI Research Facilitator
+      institution: AISIG, Netherlands & Manifold, Macedonia
+      year: 2024 - present
       description:
+        - Coordinating AI Safety Research Hub
+        - Research on steering SAE features using RL (spotlight @ MechInterp Workshop, NeurIPS 2025)
+        - Developing agentic benchmark for EU legal framework (poster @ RegML Workshop, NeurIPS 2025)
+        - Training multimodal language models for Macedonian language
+    - title: National Committee Member
+      institution: UWC Macedonian National Committee
+      year: 2021 - present
+      description:
+        - Selections auditor ensuring fairness and adherence to criteria
+        - Finance coordinator overseeing scholarship allocation
+        - Helped send 40+ students to UWCs across 5 continents
+        - Distributed over $2 million in scholarships
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Previous Research Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Research Intern - Biophysics
+      institution: Van der Wel Lab, Zernike Institute of Advanced Materials, Groningen
+      year: 2024
+      description:
+        - Investigated molecular-scale anomalies associated with mitochondrial dysfunction
+        - Utilized solid-state Nuclear Magnetic Resonance techniques
+    - title: Research Intern - X-ray Spectroscopy
+      institution: Netherlands Institute for Space Research (SRON)
+      year: 2023
+      description:
+        - Investigated calibration anomalies for ESA's ATHENA X-ray space telescope
+        - Tracked down physical mechanisms behind Modulated X-ray Source misbehavior
+        - Presented rebuttal of leading hypothesis
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Spotlight paper at MechInterp Workshop @ NeurIPS 2025
+        - Poster at Regulatable ML Workshop @ NeurIPS 2025
+        - 3rd place at Physics X AI Safety Grand Challenge by Apart Research
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: AI Safety & Alignment
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Mechanistic interpretability
+        - Steering and control of language models
+        - Evaluation of AI systems
+    - title: Reinforcement Learning
       items:
-        - Description 1.
-        - Description 2.
+        - Meta-learning
+        - Overcoming catastrophic forgetting
+        - Phase transitions in learning
+    - title: AI for Society
+      items:
+        - AI infrastructure for underrepresented languages
+        - AI for policy and governance
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - The UWC movement and international education
+    - Philosophy of consciousness
+    - Effective altruism
