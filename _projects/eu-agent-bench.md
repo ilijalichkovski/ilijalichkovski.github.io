@@ -15,5 +15,3 @@ Currently, early work on EU-Agent-Bench 2 is underway.
 **Skills:** AI Agents, Data engineering
 
 **Time period:** September 23, 2025
-
-

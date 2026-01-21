@@ -18,5 +18,3 @@ We utilized state-of-the-art solid state Nuclear Magnetic Resonance techniques t
 **Time period:** July 10, 2024
 
 [Read the thesis](https://fse.studenttheses.ub.rug.nl/33441/)
-
-

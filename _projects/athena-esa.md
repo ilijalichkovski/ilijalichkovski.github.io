@@ -18,5 +18,3 @@ The tolerance for lost observation time on a >$1B mission is minimal, so I sough
 **Time period:** January 20, 2023
 
 [Read the thesis](https://fse.studenttheses.ub.rug.nl/29011/)
-
-

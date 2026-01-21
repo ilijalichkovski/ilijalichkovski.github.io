@@ -13,5 +13,3 @@ We've done this by releasing (multimodal) datasets counting millions of QA pairs
 **Status:** In Progress
 
 **Skills:** Data engineering, Python
-
-

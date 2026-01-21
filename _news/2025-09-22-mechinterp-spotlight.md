@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 Our collaboration with Jeremias Ferrao, Matthijs van der Lende and Clement Neo has been accepted as a spotlight at the Mechanistic Interpretability workshop at NeurIPS 2025.
-
-

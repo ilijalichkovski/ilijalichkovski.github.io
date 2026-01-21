@@ -15,5 +15,3 @@ By setting up a continuum between two concepts, one can interrogate where on tha
 **Skills:** Mathematics, TypeScript
 
 **Time period:** March 26, 2025
-
-

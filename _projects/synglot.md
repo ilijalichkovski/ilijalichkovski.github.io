@@ -14,5 +14,3 @@ A Python library making it ridiculously easy to translate/generate large dataset
 **Skills:** Python
 
 [View on GitHub](https://github.com/manifold-intelligence/synglot)
-
-

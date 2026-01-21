@@ -13,5 +13,3 @@ Demo exceeded expectations and launch coming in April 2026.
 **Skills:** DSPy, Mentorship
 
 **Time period:** July 17 – December 26, 2025
-
-

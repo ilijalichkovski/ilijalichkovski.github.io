@@ -13,5 +13,3 @@ The hope is that this benchmark achieves better alignment between the inductive 
 **Status:** In Progress
 
 **Skills:** Mathematics, Python
-
-

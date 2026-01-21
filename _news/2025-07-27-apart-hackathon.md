@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 Our hackathon project alongside Jeremias Ferrao has won the 3rd place at the Physics X AI Safety Grand Challenge by Apart Research.
-
-

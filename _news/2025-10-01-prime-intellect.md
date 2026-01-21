@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 Starting an RL residency at Prime Intellect, where I'll be working on a novel approach for imparting efficient weight updates of foundation models.
-
-

@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 Our paper on evaluating AI agent legal compliance, in collaboration with Alexander Müller, Mariam Ibrahim and Tiwai Mhundwa, has been accepted to RegML @ NeurIPS 2025.
-
-

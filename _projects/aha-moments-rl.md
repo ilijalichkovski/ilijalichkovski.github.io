@@ -13,5 +13,3 @@ We look into the evolution of the Local Learning Coefficient (LLC), a measure th
 **Skills:** Physics, Reinforcement learning
 
 **Time period:** July 25–27, 2025
-
-

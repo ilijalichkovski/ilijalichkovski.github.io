@@ -46,9 +46,9 @@ Previously, I studied physics at the University of Groningen (🇳🇱) with a f
 
 - [Seeing and somethingness](https://aeon.co/essays/how-blindsight-answers-the-hard-problem-of-consciousness) -- wonderful treatment of David Chalmers' hard problem of consciousness. Completely revamped my understanding of conscious experience versus information processing.
 
-- [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547) -- a classic, thoughtful paper that motivates what I believe to be the most elegant and parsimonious definition of intelligence as being *skill-acquisition efficiency*.
+- [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547) -- a classic, thoughtful paper that motivates what I believe to be the most elegant and parsimonious definition of intelligence as being _skill-acquisition efficiency_.
 
-- [Golden Eye](https://lareviewofbooks.org/article/golden-eye/) -- a emotional  tribute interleaving several stories about the revolution in seeing that science and the James Webb Space Telescope in particular have afforded us.
+- [Golden Eye](https://lareviewofbooks.org/article/golden-eye/) -- a emotional tribute interleaving several stories about the revolution in seeing that science and the James Webb Space Telescope in particular have afforded us.
 
 - [Your Book Review: Progress and Poverty](https://www.astralcodexten.com/p/your-book-review-progress-and-poverty) -- Georgism nerd-trap, proceed with caution; a clairvoyant look at causes behind some economic mechanisms.
 

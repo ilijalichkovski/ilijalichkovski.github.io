@@ -13,5 +13,3 @@ Using reinforcement learning (RL) to steer SAE (sparse autoencoder) features, my
 **Skills:** Bash, Evaluations, Experimental, Python
 
 **Time period:** September 23, 2025
-
-
