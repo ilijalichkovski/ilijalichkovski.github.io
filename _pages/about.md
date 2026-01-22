@@ -30,19 +30,19 @@ I enjoy hybrid training. On the strength side, raw deadlifts are probably my fav
 
 Previously, I studied physics at the University of Groningen (🇳🇱) with a focus in biophysics. There, I spent some time investigating molecular-scale anomalies associated with mitochondrial dysfunction using solid-state NMR in [Patrick van der Wel's lab](https://vanderwellab.org/) at the [Zernike Institute of Advanced Materials](https://www.rug.nl/research/zernike/) in Groningen (🇳🇱). During what ended up being one of my favorite professional challenges, I helped out the [Netherlands Institute for Space Research](https://www.sron.nl/) in figuring out why the Modulated X-ray Source aboard ESA's upcoming flagship [ATHENA](https://www.the-athena-x-ray-observatory.eu/en) mission was misbehaving. Before college, and in pursuit of well-roundedness, I participated in a journalistic/liberal arts short programme at the [School of The New York Times](https://nytedu.com/) during my gap year.
 
-# Things I believe
+# things I believe
 
 - AI can yield a more prosperous world as a key dependency in our tech tree
 - Living with principle, among friends, and optimistically
 - The UWC movement is a great lever to [impact](https://www.uwc.org/support) the world positively
 
-## Media
+## media
 
 - Morning show on Macedonian TV, [talking about UWC](https://www.youtube.com/embed/LgP-WXYd-fA) (2024)
 
 - [Announcement](https://mon.gov.mk/mk-MK/odnosi-so-javnost/soopstenija/golem-iscekor-vo-2025-godina-znaenjeto-na-stipendistite-vo-sluzba-na-drzavata) by the Macedonian Ministry of Education (2026) featuring our work on the AI agent for the National Statistics Bureau.
 
-## Some favorite bookmarks
+## a few favorite bookmarks
 
 - [Seeing and somethingness](https://aeon.co/essays/how-blindsight-answers-the-hard-problem-of-consciousness) -- wonderful treatment of David Chalmers' hard problem of consciousness. Revamped my understanding of how conscious experience is different to mere information processing.
 
