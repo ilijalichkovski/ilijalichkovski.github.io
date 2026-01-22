@@ -30,7 +30,7 @@ I enjoy hybrid training. On the strength side, raw deadlifts are probably my fav
 
 Previously, I studied physics at the University of Groningen (🇳🇱) with a focus in biophysics. There, I spent some time investigating molecular-scale anomalies associated with mitochondrial dysfunction using solid-state NMR in [Patrick van der Wel's lab](https://vanderwellab.org/) at the [Zernike Institute of Advanced Materials](https://www.rug.nl/research/zernike/) in Groningen (🇳🇱). During what ended up being one of my favorite professional challenges, I helped out the [Netherlands Institute for Space Research](https://www.sron.nl/) in figuring out why the Modulated X-ray Source aboard ESA's upcoming flagship [ATHENA](https://www.the-athena-x-ray-observatory.eu/en) mission was misbehaving. Before college, and in pursuit of well-roundedness, I participated in a journalistic/liberal arts short programme at the [School of The New York Times](https://nytedu.com/) during my gap year.
 
-# things I believe
+## things I believe
 
 - AI can yield a more prosperous world as a key dependency in our tech tree
 - Living with principle, among friends, and optimistically
