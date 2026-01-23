@@ -10,23 +10,7 @@ toc:
   sidebar: left
 ---
 
-Recording:
-
----
-
 This was a talk I gave at the third week of the Mostovi Hackathon, to get participants thinking about AI security in development and in production. Read more about Mostovi [here](https://mostovi.mk/) — it’s a wonderful initiative by my friend Zhive.
-
-# Agenda
-
-I. Preliminaries: a look at the current moment in AI & why care
-
-II. **High-level principles** for thinking about AI for your startups
-
-III. **Practical advice** and considerations
-
-IV. Recap
-
-V. Contribute to open-source efforts at Manifold
 
 ---
 
