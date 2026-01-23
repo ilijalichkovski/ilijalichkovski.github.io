@@ -50,7 +50,7 @@ Previously, I studied physics at the University of Groningen (🇳🇱) with a f
 
 - [Golden Eye](https://lareviewofbooks.org/article/golden-eye/) -- a emotional tribute interleaving several stories about the revolution in seeing that science and the James Webb Space Telescope in particular have afforded us.
 
-- [Your Book Review: Progress and Poverty](https://www.astralcodexten.com/p/your-book-review-progress-and-poverty) -- Georgism nerd-trap, proceed with caution; a clairvoyant look at causes behind some economic mechanisms.
+- [Your Book Review: Progress and Poverty](https://www.astralcodexten.com/p/your-book-review-progress-and-poverty) -- Georgism nerd-trap, proceed with caution; a clairvoyant look at causes behind some economic phenomena.
 
 - [Dissipative adaptation in driven self-assembly](https://www.nature.com/articles/nnano.2015.250) -- self-organization is favored in driven out-of-equilibrium systems, because self-organization is better at dissipating energy; maybe this explains life.
 

@@ -19,3 +19,4 @@ nav_order: 4
 
 - **Guest lecture at University of Groningen** (2026) — Data Challenges in AI Systems course. [[slides](https://pitch.com/v/intelligent-statistics-agent-xwrywg)]
 
+- **Talk at the Mostovi Hackathon** (2025) organized by my friend Zhive -- data security in AI development.
