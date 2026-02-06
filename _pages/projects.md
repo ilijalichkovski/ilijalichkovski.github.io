@@ -63,3 +63,17 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
+## service
+
+Reviewing:
+- [Mechanistic Interpretability workshop @ NeurIPS 2025](https://mechinterpworkshop.com/)
+- [Regulatable ML workshop @ NeurIPS 2025](https://regulatableml.github.io/)
+
+AI safety:
+- overseeing the AI Safety Initiative Groningen [Research Hub](https://www.aisig.org/research-hub), setting up research priorities, conceiving topics, and securing partnerships.
+
+Macedonia:
+- Mentored 7 students in ML engineering and product design
+- Advising [Mostovi](mostovi.mk) on matters of digitalization and strategy.
+- overseeing finance at the [UWC Macedonia](https://mk.uwc.org/), performing financial needs assessment; allocated several million $ worth of scholarships over 4 years
