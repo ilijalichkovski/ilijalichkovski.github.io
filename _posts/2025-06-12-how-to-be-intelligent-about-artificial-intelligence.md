@@ -5,6 +5,7 @@ date: 2025-06-12 10:00:00
 description: Recording and notes from a talk I gave at the Mostovi Hackathon on AI security in development and production.
 tags: [ai, security, vibe-coding, llm]
 categories: [blogposts]
+keywords: AI security, vibe coding, LLM security, AI development, prompt injection, data security, Mostovi hackathon
 giscus_comments: false
 toc:
   sidebar: left

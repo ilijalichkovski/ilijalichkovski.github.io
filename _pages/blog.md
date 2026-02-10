@@ -2,6 +2,7 @@
 layout: default
 permalink: /blog/
 title: blog
+description: Thoughts on AI, machine learning, philosophy, and more — by Ilija Lichkovski.
 nav: true
 nav_order: 1
 pagination:

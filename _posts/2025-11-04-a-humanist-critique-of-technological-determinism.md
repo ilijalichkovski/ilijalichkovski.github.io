@@ -5,6 +5,7 @@ date: 2025-11-04 10:00:00
 description: The future is unsolved.
 tags: [ai, philosophy, history]
 categories: [blogposts]
+keywords: technological determinism, AI philosophy, automation, Mechanize, tech history, human agency, economic incentives
 giscus_comments: false
 toc:
   sidebar: left

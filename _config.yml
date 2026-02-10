@@ -9,11 +9,11 @@ last_name: lichkovski
 contact_note: >
   Feel free to reach out via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  ML researcher and engineer interested in multimodality and compositionality.
+  Ilija Lichkovski — ML researcher and engineer working on AI agents, reinforcement learning, mechanistic interpretability, and AI safety. Based in the Netherlands.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: machine learning, ML researcher, AI safety, reinforcement learning, NeurIPS, mechanistic interpretability, LLM agents, multimodality, Macedonia, Netherlands # add your own keywords or leave empty
+keywords: Ilija Lichkovski, machine learning, ML researcher, AI safety, reinforcement learning, mechanistic interpretability, LLM agents, multimodality, compositionality, AI engineer, Prime Intellect, Researchable, AISIG, Macedonia, Netherlands # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ❧ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -71,7 +71,8 @@ max_width: 930px
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: true # Include Schema.org in the HTML head
-og_image: assets/img/prof_pic_2.jpg # The site-wide (default for all links) Open Graph preview image
+og_image: /assets/img/prof_pic_2.jpg # The site-wide (default for all links) Open Graph preview image
+x_username: carnot_cyclist # Twitter/X username for twitter:site and twitter:creator meta tags
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -289,6 +290,16 @@ plugins:
 defaults:
   - scope:
       path: "assets"
+    values:
+      sitemap: false
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      sitemap: true
+  - scope:
+      path: ""
+      type: "posts"
     values:
       sitemap: true
 

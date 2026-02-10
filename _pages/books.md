@@ -2,6 +2,7 @@
 layout: book-shelf
 title: bookshelf
 permalink: /books/
+description: Books that Ilija Lichkovski is reading, has read, or plans to read.
 nav: false
 collection: books
 ---

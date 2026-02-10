@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='https://researchable.nl/'>Researchable</a> · <a href='https://www.primeintellect.ai/'>Prime Intellect</a> · <a href='https://www.aisig.org/'>AISIG</a> · <a href='https://manifold.mk'>Manifold</a> · <a href='https://www.mk.uwc.org/'>UWC</a>
+description: Ilija Lichkovski — ML engineer at Researchable, resident at Prime Intellect, researching AI safety, reinforcement learning, and mechanistic interpretability.
 
 profile:
   align: right

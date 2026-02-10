@@ -59,16 +59,26 @@
   <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url | remove_first: 'index.html' }}">
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   {% if page.og_image or site.og_image %}
-    <meta property="og:image" content="{% if page.og_image %}{{ page.og_image }}{% else %}{{ site.og_image }}{% endif %}">
+    {% if page.og_image %}
+      {% assign og_img = page.og_image %}
+    {% else %}
+      {% assign og_img = site.og_image %}
+    {% endif %}
+    {% unless og_img contains '://' %}
+      {% assign og_img = og_img | prepend: site.baseurl | prepend: site.url %}
+    {% endunless %}
+    <meta property="og:image" content="{{ og_img }}">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
   {% endif %}
   <meta property="og:locale" content="{{ site.lang }}">
 
   <!-- Twitter card -->
-  <meta name="twitter:card" content="summary">
+  <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   {% if page.og_image or site.og_image %}
-    <meta name="twitter:image" content="{% if page.og_image %}{{ page.og_image }}{% else %}{{ site.og_image }}{% endif %}">
+    <meta name="twitter:image" content="{{ og_img }}">
   {% endif %}
   {% if site.x_username %}
     <meta name="twitter:site" content="@{{ site.x_username }}">
@@ -78,6 +88,18 @@
 
 {% if site.serve_schema_org %}
   <!-- Schema.org -->
+  {% unless og_img %}
+    {% if page.og_image or site.og_image %}
+      {% if page.og_image %}
+        {% assign og_img = page.og_image %}
+      {% else %}
+        {% assign og_img = site.og_image %}
+      {% endif %}
+      {% unless og_img contains '://' %}
+        {% assign og_img = og_img | prepend: site.baseurl | prepend: site.url %}
+      {% endunless %}
+    {% endif %}
+  {% endunless %}
   {% comment %} Social links generator for "sameAs schema" {% endcomment %}
   {% assign sameaslinks = '' | split: ',' %}
   {% for social in site.data.socials %}
@@ -228,20 +250,49 @@
 
   <script type="application/ld+json">
     {
-        "author":
-        {
-            "@type": "Person",
-            "name": "{{ author_name }}"
-        },
-        "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
+        "@context": "https://schema.org",
         "@type": "{% if is_blog_post %}BlogPosting{% else %}WebSite{% endif %}",
-        "description": "{% if page.description %}{{ page.description }}{% else if site.description %}{{ site.description }}{% endif %}",
-        "headline": "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
-        {% if sameaslinks != blank %}
-        "sameAs": {{ sameaslinks | jsonify }},
-        {% endif %}
+        "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
         "name": "{{ author_name }}",
-        "@context": "https://schema.org"
+        "headline": "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
+        "description": "{% if page.description %}{{ page.description }}{% else if site.description %}{{ site.description }}{% endif %}",
+        {% if page.og_image or site.og_image %}
+        "image": "{{ og_img }}",
+        {% endif %}
+        "author": {
+            "@type": "Person",
+            "name": "{{ author_name }}",
+            "url": "{{ site.url }}{{ site.baseurl }}/",
+            "jobTitle": "ML Engineer & Researcher",
+            {% if sameaslinks != blank %}
+            "sameAs": {{ sameaslinks | jsonify }},
+            {% endif %}
+            "worksFor": [
+              {
+                "@type": "Organization",
+                "name": "Researchable",
+                "url": "https://researchable.nl/"
+              },
+              {
+                "@type": "Organization",
+                "name": "Prime Intellect",
+                "url": "https://www.primeintellect.ai/"
+              }
+            ]
+        },
+        {% if is_blog_post %}
+        "datePublished": "{{ page.date | date_to_xmlschema }}",
+        {% if page.last_updated %}
+        "dateModified": "{{ page.last_updated | date_to_xmlschema }}",
+        {% else %}
+        "dateModified": "{{ page.date | date_to_xmlschema }}",
+        {% endif %}
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{ page.url | prepend: site.baseurl | prepend: site.url }}"
+        },
+        {% endif %}
+        "inLanguage": "{{ site.lang }}"
     }
   </script>
 {% endif %}
