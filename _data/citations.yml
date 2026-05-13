@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-13'
 papers:
   sOj-c3EAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: 'The Anatomy of Alignment: Decomposing Preference Optimization by Steering Sparse Features'
     year: '2025'
   sOj-c3EAAAAJ:qjMakFHDy7sC:
-    citations: 1
+    citations: 2
     title: 'From Steering Vectors to Conceptors: Compositional Affine Activation Steering for LLMs'
     year: '2025'
   sOj-c3EAAAAJ:u-x6o8ySG0sC:
