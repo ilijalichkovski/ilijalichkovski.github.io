@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://researchable.nl/'>Researchable</a> · <a href='https://www.primeintellect.ai/'>Prime Intellect</a> · <a href='https://www.aisig.org/'>AISIG</a> · <a href='https://manifold.mk'>Manifold</a> · <a href='https://www.mk.uwc.org/'>UWC</a>
-description: Ilija Lichkovski — ML engineer at Researchable, resident at Prime Intellect, researching AI safety, reinforcement learning, and mechanistic interpretability.
+#subtitle: <a href='https://www.primeintellect.ai/'>Prime Intellect</a>
+description: Ilija Lichkovski — applied researcher at Prime Intellect, working on continual learning.
 
 profile:
   align: right
@@ -25,11 +25,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a machine learning engineer at [Researchable](https://researchable.nl/) (🇳🇱), where I approach industrial/medical problems with ML/RL. On the side, I keep myself quite busy as a resident at [Prime Intellect](https://www.primeintellect.ai/) (🇺🇸), where I research continual learning and RL for large language models. At [AISIG](https://www.aisig.org/) (🇳🇱), I oversee the AI Safety Research Hub, where we research things like the mechanistic causes behind evaluation awareness in LLMs, LLM debate and more. Often, I enjoy working on AI projects that are useful for my home country, and I mostly do these things via [Manifold Machines](https://manifold.mk) (🇲🇰) -- thus far we've released some reasoning datasets and are currently developing an intelligent statistical consultant for the National Statistics Bureau. Lastly, for the last 4 years I've been helping grow the UWC movement at the [Macedonian UWC National Committee](https://mk.uwc.org/what-we-do) (🇲🇰), helping oversee admissions, trying to get more scholarships, and fairly allocating nearly half a million EUR worth of financial support annually. I try to split my time between deeply technical contemplative effort, and people-oriented coordination & dealmaking.
+I'm an applied researcher at [Prime Intellect](https://www.primeintellect.ai/) (🇺🇸), working on continual learning.
 
-Previously, I studied physics at the University of Groningen (🇳🇱) with a focus in biophysics. There, I spent some time investigating molecular-scale anomalies associated with mitochondrial dysfunction using solid-state NMR in [Patrick van der Wel's lab](https://vanderwellab.org/) at the [Zernike Institute of Advanced Materials](https://www.rug.nl/research/zernike/) in Groningen (🇳🇱). During what ended up being one of my favorite professional challenges, I helped out the [Netherlands Institute for Space Research](https://www.sron.nl/) in figuring out why the Modulated X-ray Source aboard ESA's upcoming flagship [ATHENA](https://www.the-athena-x-ray-observatory.eu/en) mission was misbehaving. Before college, and in pursuit of well-roundedness, I participated in a journalistic/liberal arts short programme at the [School of The New York Times](https://nytedu.com/) during my gap year.
+Previously, I was helping organizations build ML/RL solutions as a forward-deployed engineer at [Researchable](https://researchable.nl/) (🇳🇱), and helped start the research hub in what became [Safe AI Netherlands](https://safeainetherlands.org/) (🇳🇱). I enjoy harnessing AI to help develop Macedonia -- my home country -- and I mostly do these things via [Manifold Machines](https://manifold.mk) (🇲🇰); for example, we helped develop an intelligent statistical consultant for the National Statistics Bureau. On the side, for the last 5 years I've been a part of the [Macedonian UWC National Committee](https://mk.uwc.org/what-we-do) (🇲🇰), helping oversee admissions, trying to get more scholarships, and fairly allocating nearly half a million EUR worth of scholarship funding annually.
 
-I enjoy hybrid training. On the strength side, raw deadlifts are probably my favorite lift, and on the conditioning side, I (in principle) enjoy the Norwegian 4x4 protocol. I'm an enthusiastic reader of the scientific literature about training -- reach out if you ever want to talk about mitochondrial density. Other pleasures involve achieving a great sear on a ribeye, getting good photos from bad smartphone cameras, and giving (technical) talks and presentations to diverse auidiences.
+I studied physics at the University of Groningen (🇳🇱) with a focus in biophysics. During this time, I spent time investigating molecular-scale anomalies associated with mitochondrial dysfunction using solid-state NMR in [Patrick van der Wel's lab](https://vanderwellab.org/) at the [Zernike Institute of Advanced Materials](https://www.rug.nl/research/zernike/) (🇳🇱), and joined the [Netherlands Institute for Space Research](https://www.sron.nl/) (🇳🇱) to figure out why the Modulated X-ray Source aboard ESA's upcoming flagship [ATHENA](https://www.the-athena-x-ray-observatory.eu/en) mission was misbehaving. Before college, and in pursuit of well-roundedness, I participated in a journalistic/liberal arts short programme at the [School of The New York Times](https://nytedu.com/) (🇺🇸) during my gap year.
+
+I try to split my time between deeply technical contemplative effort, and people-oriented coordination & dealmaking. Other pleasures involve deadlifts, achieving a great sear on a ribeye, and giving (technical) talks and presentations to auidiences across the technical spectrum.
+
+
 
 ## things I believe
 
