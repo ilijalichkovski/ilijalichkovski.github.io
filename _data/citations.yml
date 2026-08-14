@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-14'
 papers:
   sOj-c3EAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Local Learning Coefficients Predict Developmental Milestones During Group Relative Policy Optimization
     year: Unknown Year
   sOj-c3EAAAAJ:9yKSN-GCB0IC:
-    citations: 5
+    citations: 6
     title: 'EU-Agent-Bench: Measuring Illegal Behavior of LLM Agents Under EU Law'
     year: '2025'
   sOj-c3EAAAAJ:d1gkVwhDpl0C:
-    citations: 3
+    citations: 4
     title: 'The Anatomy of Alignment: Decomposing Preference Optimization by Steering Sparse Features'
     year: '2025'
   sOj-c3EAAAAJ:qjMakFHDy7sC:
