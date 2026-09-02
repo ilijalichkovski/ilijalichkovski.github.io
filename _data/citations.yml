@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-09-02'
 papers:
   sOj-c3EAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -9,6 +9,10 @@ papers:
     citations: 6
     title: 'EU-Agent-Bench: Measuring Illegal Behavior of LLM Agents Under EU Law'
     year: '2025'
+  sOj-c3EAAAAJ:UeHWp8X0CEIC:
+    citations: 0
+    title: Optically stimulated luminescence as the origin of the post-pulse tail of the in-flight calibration sources for X-IFU
+    year: '2026'
   sOj-c3EAAAAJ:d1gkVwhDpl0C:
     citations: 4
     title: 'The Anatomy of Alignment: Decomposing Preference Optimization by Steering Sparse Features'
